@@ -1,0 +1,4 @@
+apiVersion: v1
+name: universal
+version: 1.0.0
+appVersion: {{chart_version}}
