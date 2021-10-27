@@ -3,10 +3,10 @@ entries:
   universal:
   - apiVersion: v1
     appVersion: chart_version
-    created: "2021-10-27T16:28:35.747192+05:30"
+    created: "2021-10-27T16:39:27.319886+05:30"
     digest: 0b6e393cc0e0a108581b1490805373bd2cde30d50a9abf4c184390cbb0e96be4
     name: universal
     urls:
-    - https://halfengineer07.github.io/chart/universal-1.0.0.tgz
+    - https://halfengineer07.github.io/charts/universal-1.0.0.tgz
     version: 1.0.0
-generated: "2021-10-27T16:28:35.746379+05:30"
+generated: "2021-10-27T16:39:27.319448+05:30"
