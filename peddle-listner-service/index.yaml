@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  peddle-listener-service:
+  - apiVersion: v1
+    created: "2021-11-21T17:53:25.80489+05:30"
+    digest: f458b6385a2f71e291bc21dc4d56d609556933656c3b9969a8fdce2d15322d84
+    name: peddle-listener-service
+    urls:
+    - peddle-listener-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-21T17:53:25.803179+05:30"
