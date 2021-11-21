@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   peddle-service:
   - apiVersion: v1
-    created: "2021-11-21T17:53:22.236586+05:30"
-    digest: 8dbffab958956a13bedc30a39fec4746659ba5e99ea6cba53dd023476a1f9552
+    created: "2021-11-21T18:49:43.297063+05:30"
+    digest: fa2f7dae4216a0661234acc6f220dfb173a72667d42b4703f6c5f5c784a6d614
     name: peddle-service
     urls:
     - peddle-service-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-21T17:53:22.235615+05:30"
+generated: "2021-11-21T18:49:43.296129+05:30"
